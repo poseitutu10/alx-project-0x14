@@ -16,7 +16,7 @@ const Header: React.FC = () => {
             Home
           </Link>
           <Link
-            href="/movies"
+            href="/moves"
             className="hover:text-[#E2D609] px-4 md:px-8 text-xl transition-colors duration-300 font-semibold"
           >
             Movies

@@ -23,7 +23,7 @@ const Footer: React.FC = () => {
             Home
           </Link>
           <Link
-            href="/movies"
+            href="/moves"
             className="hover:text-[#E2D609] text-lg transition-colors duration-300"
           >
             Movies
